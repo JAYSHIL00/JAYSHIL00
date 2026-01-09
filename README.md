@@ -21,3 +21,8 @@
 - 🛠️ Build Python-based projects
 - 🚀 Improve problem-solving skills
 - 📈 Get comfortable with DSA concepts over time
+
+### 🌐 Connect with me
+
+- 🐦 X (Twitter): [https://x.com/yourusername](https://x.com/haikennub?s=21&t=896-2CI5Ig9yUhICWgDpwg)
+
