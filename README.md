@@ -22,7 +22,9 @@
 - 🚀 Improve problem-solving skills
 - 📈 Get comfortable with DSA concepts over time
 
-### 🌐 Connect with me
+## ## 🌐 Find Me Online
 
-- 🐦 X (Twitter): https://x.com/haikennub?s=21&t=896-2CI5Ig9yUhICWgDpwg
+- 🐦 X (Twitter): [@haikennub](https://x.com/haikennub)
+- 💻 GitHub: [JAYSHIL00](https://github.com/JAYSHIL00)
+
 
