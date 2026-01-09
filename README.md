@@ -24,5 +24,5 @@
 
 ### 🌐 Connect with me
 
-- 🐦 X (Twitter): [https://x.com/yourusername](https://x.com/haikennub?s=21&t=896-2CI5Ig9yUhICWgDpwg)
+- 🐦 X (Twitter): https://x.com/haikennub?s=21&t=896-2CI5Ig9yUhICWgDpwg
 
